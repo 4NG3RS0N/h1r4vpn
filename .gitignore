@@ -1,0 +1,12 @@
+h1r4vpn
+
+*.log
+*.pid
+
+.env
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db

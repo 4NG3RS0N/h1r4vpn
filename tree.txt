@@ -1,0 +1,34 @@
+h1r4vpn/
+├── cmd/
+│   └── h1r4vpn/
+│       └── main.go
+│
+├── internal/
+│   ├── vpn/
+│   │   ├── vpn.go
+│   │   ├── process.go
+│   │   └── status.go
+│   │
+│   └── utils/
+│       ├── logger.go
+│       └── network.go
+│
+├── wrappers/
+│   ├── h1r4vpn.sh
+│   ├── h1r4vpn.pl
+│   └── h1r4vpn.rb
+│
+├── configs/
+│   └── example.ovpn
+│
+├── logs/
+│   └── .gitkeep
+│
+├── screenshots/
+│   └── demo.png
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── go.mod
+└── go.sum
