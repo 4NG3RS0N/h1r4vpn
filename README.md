@@ -1,7 +1,7 @@
 # H1R4 VPN
 
 <p align="center">
-  <img src="resources\img\thunder.png" width="700">
+  <img src="resources\img\thunder.png" alt="H1R4 VPN Logo" width="200">
 </p>
 
 <p align="center">
