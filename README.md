@@ -1,7 +1,7 @@
 # H1R4 VPN
 
 <p align="center">
-  <img src="screenshots/demo.png" width="700">
+  <img src="resources\img\thunder.png" width="700">
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
 ![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?style=for-the-badge&logo=go)
 ![Platform](https://img.shields.io/badge/Platform-Linux-black?style=for-the-badge&logo=linux)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-Compatible-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ---
@@ -36,7 +35,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/h1r4vpn.git
+git clone https://github.com/4NG3RS0N/h1r4vpn.git
 cd h1r4vpn
 ```
 
@@ -149,10 +148,10 @@ logs/h1r4vpn.log
 
 ## 📜 License
 
-MIT License
+No License
 
 ---
 
 ## ❤️ Author
 
-Built with caffeine, packets, and questionable sleep schedules by **4NG3RS0N**
+Built with Iced-Coffee, packets, love and questionable sleep schedules by **4NG3RS0N**
